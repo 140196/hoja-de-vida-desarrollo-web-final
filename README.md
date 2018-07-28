@@ -2,15 +2,11 @@
 hoja de vida completa en html
 <!DOCTYPE html>
 <html>
-   <head>
-     <meta charset="utf-8"
-	 <meta name="viewport" content="width=device-width,user-scalable=no">
-	 <title>hoja de vida</title>
-   </head>
+ 
    <body>
 	 <svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
  <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
- <title>imgenes svg</title>
+
  <g>
   <title>Layer 1</title>
   <ellipse fill="#FF0000" stroke-width="5" cx="268" cy="208" id="svg_5" stroke="#000000"/>
@@ -139,6 +135,10 @@ hoja de vida completa en html
          <input type="submit" name="enviar" >
         </fieldset>		 
 	 </form> 
+	 
+	 
+	 
+	 
    </body>
    <footer>
      <img src="https://image.flaticon.com/icons/png/512/33/33702.png" width="50xp" height="50xp" alt="daniel felipe lozano vasquez">daniel felipe lozano vasquez</img>
