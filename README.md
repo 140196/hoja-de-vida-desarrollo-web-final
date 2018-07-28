@@ -134,12 +134,26 @@ hoja de vida completa en html
 		 </p>
          <input type="submit" name="enviar" >
         </fieldset>		 
-	 </form> 
-	 
-	 
-	 
-	 
-   </body>
+       </form> 
+       <h1>HOJA DE VIDA</h1>
+		 <h2>Datos personales</h2>
+		 <h3>NOMBRES: Daniel Felipe</h3>
+		 <h3>APELLIDOS: Lozano Vasquez</h3>
+		 <h3>FECHA DE NACIMIENTO: 14/01/1996</h3>
+     </p>
+	 <a href="index.html" target="_blank">inicio</a> | <a href="educacion.html" target="_blank">educacion</a> | <a href="experiencia.html">experiencia</a>
+	 <p>
+	     <h2>Experiencia</h2>
+	 </p>
+     <p>
+	     <h3>mi Experiencia y aspiraciones profecionales</h3>
+	 </p>
+	 <video src="C:\Users\Pavilion\Documents\DANIEL codificacion\video\video habilidades daniel lozano.mp4" controls width="400" height="400"></video>
+	 <p>
+	     <h3>Mis hobbies</h3>
+	 </p>
+	 <audio src="C:\Users\Pavilion\Documents\DANIEL codificacion\audio\mis hobbies.m4a" controls></audio> 
+     </body>
    <footer>
      <img src="https://image.flaticon.com/icons/png/512/33/33702.png" width="50xp" height="50xp" alt="daniel felipe lozano vasquez">daniel felipe lozano vasquez</img>
 	 |
