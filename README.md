@@ -53,3 +53,4 @@ hoja de vida completa en html
 	 <img src="https://images.vexels.com/media/users/3/135609/isolated/preview/1d918e56e1731dd063dda817eb9e26e7-icono-del-tel-fono-celular-plana-by-vexels.png" width="50xp" height="50xp" alt="3232471903">3232471903</img>
    </footer>	
 </html>
+
