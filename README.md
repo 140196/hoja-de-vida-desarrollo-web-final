@@ -6,7 +6,6 @@ hoja de vida completa en html
    <body>
 	 <svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
  <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
-
  <g>
   <title>Layer 1</title>
   <ellipse fill="#FF0000" stroke-width="5" cx="268" cy="208" id="svg_5" stroke="#000000"/>
@@ -140,19 +139,19 @@ hoja de vida completa en html
 		 <h3>NOMBRES: Daniel Felipe</h3>
 		 <h3>APELLIDOS: Lozano Vasquez</h3>
 		 <h3>FECHA DE NACIMIENTO: 14/01/1996</h3>
-     </p>
-	 <a href="index.html" target="_blank">inicio</a> | <a href="educacion.html" target="_blank">educacion</a> | <a href="experiencia.html">experiencia</a>
-	 <p>
-	     <h2>Experiencia</h2>
-	 </p>
-     <p>
-	     <h3>mi Experiencia y aspiraciones profecionales</h3>
-	 </p>
-	 <video src="C:\Users\Pavilion\Documents\DANIEL codificacion\video\video habilidades daniel lozano.mp4" controls width="400" height="400"></video>
-	 <p>
-	     <h3>Mis hobbies</h3>
-	 </p>
-	 <audio src="C:\Users\Pavilion\Documents\DANIEL codificacion\audio\mis hobbies.m4a" controls></audio> 
+       </p>
+	<a href="index.html" target="_blank">inicio</a> | <a href="educacion.html" target="_blank">educacion</a> | <a href="experiencia.html">experiencia</a>
+       <p>
+	 <h2>Experiencia</h2>
+       </p>
+       <p>
+	 <h3>mi Experiencia y aspiraciones profecionales</h3>
+       </p>
+       <video src="C:\Users\Pavilion\Documents\DANIEL codificacion\video\video habilidades daniel lozano.mp4" controls width="400" height="400"></video>
+       <p>
+        <h3>Mis hobbies</h3>
+       </p>
+       <audio src="C:\Users\Pavilion\Documents\DANIEL codificacion\audio\mis hobbies.m4a" controls></audio> 
      </body>
    <footer>
      <img src="https://image.flaticon.com/icons/png/512/33/33702.png" width="50xp" height="50xp" alt="daniel felipe lozano vasquez">daniel felipe lozano vasquez</img>
