@@ -53,4 +53,56 @@ hoja de vida completa en html
 	 <img src="https://images.vexels.com/media/users/3/135609/isolated/preview/1d918e56e1731dd063dda817eb9e26e7-icono-del-tel-fono-celular-plana-by-vexels.png" width="50xp" height="50xp" alt="3232471903">3232471903</img>
    </footer>	
 </html>
+<! DOCTYPE html>
+< html >
+   < head >
+     < meta  charset = " utf-8 "
+	 < meta  name = " viewport "  content = " width = device-width, user-scalable = no "
+	 < title > </ title >
+   </ head >
+   < cuerpo >
+     < svg  width = " 640 "  height = " 480 "  xmlns = " http://www.w3.org/2000/svg "  xmlns: svg = " http://www.w3.org/2000/svg " >
+ <! - Creado con SVG-edit - http://svg-edit.googlecode.com/ ->
+< title > imgenes svg </ title >
+< g >
+  < title > Layer 1 </ title >
+  < elipse  fill = " # FF0000 "  stroke-width = " 5 "  cx = " 268 "  cy = " 208 "  id = " svg_5 "  stroke = " # 000000 " />
+  < Elipse  de llenado = " # FF0000 "  accidente cerebrovascular = " # 000000 "  stroke-anchura = " 5 "  stroke-dasharray = " nulo "  stroke-lineJoin = " nulo "  stroke-linecap = " nulo "  cx = " 95 "  cy = " 342 "  id = " svg_1 "  rx = "75 "  ry =" 99 " />
+  < rect  fill = " # FF0000 "  stroke = " # 000000 "  stroke-width = " 5 "  stroke-dasharray = " nulo "  stroke-linejoin = " nulo "  stroke-linecap = " nulo "  x = " 145 "  y = " 86 "  ancho = " 35 "  alto = "352 "  id =" svg_8 " />
+  < rect  fill = " # FF0000 "  stroke = " # 000000 "  stroke-width = " 5 "  stroke-dasharray = " nulo "  stroke-linejoin = " nulo "  stroke-linecap = " nulo "  x = " 235 "  y = " 87 "  ancho = " 29 "  alto = "351 "  id =" svg_11 " />
+  < rect  fill = " # FF0000 "  stroke = " # 000000 "  stroke-width = " 5 "  stroke-dasharray = " nulo "  stroke-linejoin = " nulo "  stroke-linecap = " nulo "  x = " 233 "  y = " 88 "  ancho = " 175 "  alto = "29 "  id =" svg_14 " />
+  < rect  fill = " # FF0000 "  stroke = " # 000000 "  stroke-width = " 5 "  stroke-dasharray = " nulo "  stroke-linejoin = " nulo "  stroke-linecap = " nulo "  x = " 207 "  y = " 223 "  ancho = " 131 "  alto = "27 "  id =" svg_16 " />
+  < rect  fill = " # FF0000 "  stroke = " # 000000 "  stroke-width = " 5 "  stroke-dasharray = " nulo "  stroke-linejoin = " nulo "  stroke-linecap = " nulo "  x = " 444 "  y = " 89 "  ancho = " 38 "  alto = "348 "  id =" svg_18 " />
+  < rect  fill = " # FF0000 "  stroke = " # 000000 "  stroke-width = " 5 "  stroke-dasharray = " nulo "  stroke-linejoin = " nulo "  stroke-linecap = " nulo "  x = " 445 "  y = " 407 "  ancho = " 163 "  alto = "32 "  id =" svg_19 " />
+</ g >
+</ svg >
+	 < Un  nombre = " #hoja_de_vida " > </ a >
+	 < p >
+	     < h1 > HOJA DE VIDA </ h1 >
+		 < h2 > Datos personales </ h2 >
+		 < h3 > NOMBRES: Daniel Felipe </ h3 >
+		 < h3 > APELLIDOS: Lozano Vasquez </ h3 >
+		 < h3 > FECHA DE NACIMIENTO: 14/01/1996 </ h3 >
+     </ p >
+	 < Un  href = " index.html "  target = " _blank " > Inicio </ a > | < Un  href = " educacion.html "  target = " _blank " > educacion </ a > | < Un  href = " experiencia.html " > Experiencia </ una >
+	 < p >
+	     < h2 > Experiencia </ h2 >
+	 </ p >
+     < p >
+	     < h3 > mi Experiencia y aspiraciones profecionales </ h3 >
+	 </ p >
+	 < video  src = " C: \ Users \ Pavilion \ Documents \ DANIEL codificacion \ video \ video habilidades daniel lozano.mp4 "  controles  width = " 400 "  height = " 400 " > </ video >
+	 < p >
+	     < h3 > Mis pasatiempos </ h3 >
+	 </ p >
+	 < audio  src = " C: \ Users \ Pavilion \ Documents \ DANIEL codificacion \ audio \ mis hobbies.m4a "  controles > </ audio >
+   </ body >
+   < pie de página >
+     < img  src = " https://image.flaticon.com/icons/png/512/33/33702.png "  width = " 50xp "  height = " 50xp "  alt = " daniel felipe lozano vasquez " > daniel felipe lozano vasquez </ img >
+	 |
+	 < img  src = " https://image.flaticon.com/icons/png/512/60/60543.png "  width = " 50xp "  height = " 50xp "  alt = " denisillo38@gmail.com " > denisillo38 @ gmail </ img >
+	 |
+	 < img  src = " https://images.vexels.com/media/users/3/135609/isolated/preview/1d918e56e1731dd063dda817eb9e26e7-icono-del-tel-fono-celular-plana-by-vexels.png "  width = " 50xp "  alto = " 50xp "  alt = " 3232471903 " > 3232471903 </ img >
+   </ footer >
+</ html >
 
